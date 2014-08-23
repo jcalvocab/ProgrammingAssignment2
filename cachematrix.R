@@ -1,4 +1,3 @@
-## DESCRIPTION:
 ## makeCacheMatrix: This function creates a special "matrix" object 
 ## (a list containing functions to set/get the matrix and get/set the inverse) 
 ## that can cache its inverse.
